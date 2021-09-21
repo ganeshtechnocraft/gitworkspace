@@ -1,0 +1,6 @@
+This file shows the education details of the author 
+sl.no standard    name of the college     year of passing 
+1     tenth       zppboys high school                   2011
+2     intermideat  sri chaitanya junior college         2013
+3     btech        jntu college of engineering kalikiri 2017
+4    deploma      manipal global institue of finance    2021  
